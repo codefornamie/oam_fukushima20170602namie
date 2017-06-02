@@ -18,7 +18,7 @@
 https://github.com/dronebird/oam_fukushima20170602namie/blob/master/emotion/fukushima2017_06_02namie01.kml
 https://github.com/dronebird/oam_fukushima20170602namie/blob/master/emotion/fukushima2017_06_02namie02.kml
 
-## XYZタイル画像（現在作成中）
+## XYZタイル画像（現在 z12-z17 まで公開）
 `https://dronebird.github.io/oam_fukushima20170602namie/xyztiles/{z}/{x}/{y}.png`
 
 ## 撮影準備映像
