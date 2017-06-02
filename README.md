@@ -13,7 +13,10 @@
 
 ## 撮影データ（元データ）
 
+
 ## 飛行ログ(KMLデータ)
+https://github.com/dronebird/oam_fukushima20170602namie/blob/master/emotion/fukushima2017_06_02namie01.kml
+https://github.com/dronebird/oam_fukushima20170602namie/blob/master/emotion/fukushima2017_06_02namie02.kml
 
 ## XYZタイル画像（現在作成中）
 `https://dronebird.github.io/oam_fukushima20170602namie/xyztiles/{z}/{x}/{y}.png`
