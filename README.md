@@ -1,7 +1,12 @@
 # oam_fukushima20170602namie
-福島県浪江町 ドローン空撮データ 2017/06/02
+福島県浪江町 ドローン空撮データ 2017/06/02 撮影
 ![2017-06-02 13 25 42](https://cloud.githubusercontent.com/assets/416977/26710744/4c56a400-4797-11e7-87af-e3cd736aeb25.jpg)
 
+## XYZタイル画像（現在 z12-z18 まで公開）
+`https://dronebird.github.io/oam_fukushima20170602namie/xyztiles/{z}/{x}/{y}.png`
+
+## XYZタイル画像の利用例 on iD Editor
+<img width="1680" alt="2017-06-02 16 04 38" src="https://cloud.githubusercontent.com/assets/416977/26714627/466474ee-47ad-11e7-8e3c-57c3ba3e6383.png">
 
 ## 使用機材
 * eBee (SenseFly社製)： 静止画撮影
@@ -18,8 +23,6 @@
 https://github.com/dronebird/oam_fukushima20170602namie/blob/master/emotion/fukushima2017_06_02namie01.kml
 https://github.com/dronebird/oam_fukushima20170602namie/blob/master/emotion/fukushima2017_06_02namie02.kml
 
-## XYZタイル画像（現在 z12-z17 まで公開）
-`https://dronebird.github.io/oam_fukushima20170602namie/xyztiles/{z}/{x}/{y}.png`
 
 ## 撮影準備映像
 
