@@ -2,7 +2,7 @@
 福島県浪江町 ドローン空撮データ 2017/06/02 撮影
 ![2017-06-02 13 25 42](https://cloud.githubusercontent.com/assets/416977/26710744/4c56a400-4797-11e7-87af-e3cd736aeb25.jpg)
 
-## XYZタイル画像（現在 z12-z18 まで公開）
+## XYZタイル画像（現在 z12-z19 まで公開）
 `https://dronebird.github.io/oam_fukushima20170602namie/xyztiles/{z}/{x}/{y}.png`
 
 ## XYZタイル画像の利用例 on iD Editor
