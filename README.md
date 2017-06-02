@@ -6,6 +6,7 @@
 `https://dronebird.github.io/oam_fukushima20170602namie/xyztiles/{z}/{x}/{y}.png`
 
 ## XYZタイル画像の利用例 on iD Editor
+* iD Editor 立ち上げ後、「背景画像設定」から「カスタム」を選択。上記 XYZタイルURLをコピーして貼り付け。
 <img width="1680" alt="2017-06-02 16 04 38" src="https://cloud.githubusercontent.com/assets/416977/26714627/466474ee-47ad-11e7-8e3c-57c3ba3e6383.png">
 
 ## 使用機材
