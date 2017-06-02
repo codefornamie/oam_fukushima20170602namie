@@ -6,7 +6,8 @@
 * MAVICpro (DJI社製)： 本撮影前のテストフライト、鳥払い
 
 ## 浪江町役場上空
-![浪江町役場上空](https://github.com/dronebird/oam_yokoze20170127terasakatanada/blob/master/emotion/img/DSC03673.JPG?raw=true)
+![dsc05211](https://cloud.githubusercontent.com/assets/416977/26708926/f1be4f8c-4789-11e7-8a14-572a9fa4ef5e.JPG)
+
 
 ## 撮影データ（元データ）
 
