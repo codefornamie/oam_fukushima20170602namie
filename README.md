@@ -15,8 +15,8 @@
 
 ## 飛行ログ(KMLデータ)
 
-## タイル画像（現在作成中）
-
+## XYZタイル画像（現在作成中）
+`https://dronebird.github.io/oam_fukushima20170602namie/xyztiles/{z}/{x}/{y}.png`
 
 ## 撮影準備映像
 
