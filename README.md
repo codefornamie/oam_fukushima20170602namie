@@ -1,6 +1,7 @@
 # oam_fukushima20170602namie
 福島県浪江町 ドローン空撮データ 2017/06/02
-![2017-06-02 13 25 42](https://cloud.githubusercontent.com/assets/416977/26710710/08352738-4797-11e7-81a0-bde24a55d238.jpg)
+![2017-06-02 13 25 42](https://cloud.githubusercontent.com/assets/416977/26710744/4c56a400-4797-11e7-87af-e3cd736aeb25.jpg)
+
 
 ## 使用機材
 * eBee (SenseFly社製)： 静止画撮影
