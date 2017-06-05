@@ -29,4 +29,5 @@ https://github.com/dronebird/oam_fukushima20170602namie/blob/master/emotion/fuku
 
 ## 著作権
 © Namie Town, CC BY 4.0/OSM traceable, supported by CrisisMappers Japan/DRONEBIRD
+
 OSM Source TAG: source = oam_fukushima20170602namie
