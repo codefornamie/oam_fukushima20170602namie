@@ -28,4 +28,6 @@ https://github.com/dronebird/oam_fukushima20170602namie/blob/master/emotion/fuku
 ## 撮影準備映像
 
 ## 著作権
-[© CrisisMappers Japan/DRONEBIRD, CC BY 4.0](https://github.com/dronebird/oam_fukushima20170602namie/blob/master/LICENSE.md)
+* [© Namie Town, CC BY 4.0/OSM traceable, supported by CrisisMappers Japan/DRONEBIRD]
+
+* OSM Source TAG: source = oam_fukushima20170602namie
